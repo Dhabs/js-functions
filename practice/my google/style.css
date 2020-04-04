@@ -1,0 +1,29 @@
+body {margin: 0;}
+main {
+   padding: 50px 25px 20px 25px;
+}
+p {
+    margin-top: 12px;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav-item {
+    margin-left: 20px;
+}
+.nav-item.nav-icon {
+    height: 30px;
+    width: 30px;
+    margin-top: 12px;
+}
+.round-circle {
+    margin-top: 2px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+list-style-type: {
+    none
+}
+
